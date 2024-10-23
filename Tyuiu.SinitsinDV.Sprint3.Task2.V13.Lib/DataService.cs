@@ -8,7 +8,7 @@ namespace Tyuiu.SinitsinDV.Sprint3.Task2.V13.Lib
             double p = 0;
             do 
             {
-                p = p + (Math.Round(0.7, startValue) + 2 / (startValue + 1)) * Math.Sin(0.7);
+                p = p + (Math.Pow(value, startValue) + 2.0 / (startValue + 1)) * Math.Sin(value);
                 startValue++;
 
 
