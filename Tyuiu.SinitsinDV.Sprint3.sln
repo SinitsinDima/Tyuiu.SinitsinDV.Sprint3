@@ -29,11 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SinitsinDV.Sprint3.Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{678CF4F8-32CE-41DE-A01C-A653A1B34C9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SinitsnDV.Sprint3.Task3.V4", "Tyuiu.SinitsnDV.Sprint3.Task3.V4\Tyuiu.SinitsnDV.Sprint3.Task3.V4.csproj", "{DF2FA246-9774-42B3-B310-2D90D71E523B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SinitsinDV.Sprint3.Task3.V4", "Tyuiu.SinitsnDV.Sprint3.Task3.V4\Tyuiu.SinitsinDV.Sprint3.Task3.V4.csproj", "{DF2FA246-9774-42B3-B310-2D90D71E523B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SinitsnDV.Sprint3.Task3.V4.Lib", "Tyuiu.SinitsnDV.Sprint3.Task3.V4.Lib\Tyuiu.SinitsnDV.Sprint3.Task3.V4.Lib.csproj", "{AB80EBFD-068F-4325-8FB4-9FD742159B44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SinitsinDV.Sprint3.Task3.V4.Lib", "Tyuiu.SinitsnDV.Sprint3.Task3.V4.Lib\Tyuiu.SinitsinDV.Sprint3.Task3.V4.Lib.csproj", "{AB80EBFD-068F-4325-8FB4-9FD742159B44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SinitsnDV.Sprint3.Task3.V4.Test", "Tyuiu.SinitsnDV.Sprint3.Task3.V4.Test\Tyuiu.SinitsnDV.Sprint3.Task3.V4.Test.csproj", "{1807FC7B-4FBD-40FE-950E-A35D093B264C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SinitsinDV.Sprint3.Task3.V4.Test", "Tyuiu.SinitsnDV.Sprint3.Task3.V4.Test\Tyuiu.SinitsinDV.Sprint3.Task3.V4.Test.csproj", "{1807FC7B-4FBD-40FE-950E-A35D093B264C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
